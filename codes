@@ -10,5 +10,8 @@
   },
   "MerryChristmas!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT"]
+  },
+ "Sorry!": {
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 25]
   }
 }
