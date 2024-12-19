@@ -13,5 +13,8 @@
   },
  "Sorry!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 25]
-  }
+  },
+ "CRATES!": {
+    "Reward": ["CRATE", 25]
+  }  
 }
