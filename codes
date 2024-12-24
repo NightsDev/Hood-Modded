@@ -16,5 +16,8 @@
   },
  "CRATES!": {
     "Reward": ["CRATE", 25]
+  },
+ "MerryXMAS!": {
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", "CRATE","CRATE","CRATE","CRATE","CRATE", 25]
   }  
 }
