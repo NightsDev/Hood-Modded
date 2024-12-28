@@ -8,8 +8,8 @@
   "XMAS24!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT"]
   },
-  "MerryChristmas!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT"]
+  "SHUTDOWN_SORRY!": {
+    "Reward": ["CRATE","CRATE","CRATE","CRATE","CRATE", 25]
   },
  "Sorry!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 25]
