@@ -13,5 +13,8 @@
   },
  "MerryXMAS!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", "CRATE","CRATE","CRATE","CRATE","CRATE", 25]
-  }  
+  },
+"HappyNewYears25!": {
+    "Reward": ["CRATE","CRATE","CRATE","CRATE","CRATE", 25]
+  },
 }
