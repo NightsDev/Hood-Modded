@@ -1,1 +1,5 @@
-{}
+{
+  "SummerHotfixOne!": {
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 25]
+  },
+}
