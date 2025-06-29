@@ -1,5 +1,8 @@
 {
   "SummerHotfixOne": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 25]
+  },
+ "20KGROUPMEMBERS!": {
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 25]
   }
 }
