@@ -1,8 +1,5 @@
 {
-  "INDEPENDENT!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 25]
+  "SUMMERUPDATEHYPE!": {
+    "Reward": ["STREAK_EFFECT", 5]
   },
- "AIMFIX!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 25]
-  }
 }
