@@ -1,6 +1,6 @@
 {
-  "SUMMERUPDATEHYPE!": {
-    "Reward": ["STREAK_EFFECT", 5]
+  "CRABQUESTSUMMER!": {
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 50]
   },
  "DHMSUMMERP1!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 50]
