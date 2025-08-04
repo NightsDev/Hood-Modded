@@ -2,10 +2,7 @@
   "CRABQUESTSUMMER!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 50]
   },
- "PART2SOON!": {
-    "Reward": ["STOMP_EFFECT", 25]
-  },
- "DHMSUMMERP1!": {
+ "THEECLYPSEISNEAR!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 50]
   }
 }
