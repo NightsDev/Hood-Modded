@@ -1,8 +1,5 @@
 {
-  "CRABQUESTSUMMER!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 50]
-  },
- "THEECLYPSEISNEAR!": {
+ "ECLYPSEUPDATESOON!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 50]
   }
 }
