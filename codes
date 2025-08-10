@@ -1,9 +1,6 @@
 {
- "SORRYFORTHEBUGSSUN!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT"]
-  },
  "SORRYFORTHEHUGEDELAY!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", "STOMP_EFFECT", "STREAK_EFFECT", 100]
+    "Reward": ["STOMP_EFFECT", 10]
   },
  "THEAGENCY!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 50]
