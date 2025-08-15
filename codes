@@ -1,11 +1,5 @@
 {
- "SORRYFORTHEHUGEDELAY!": {
-    "Reward": ["STOMP_EFFECT", 10]
-  },
- "THEAGENCY!": {
+ "COSMIC!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 50]
-  },
-"SUMMERECLYPSE!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT"]
   }
 }
