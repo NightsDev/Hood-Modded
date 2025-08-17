@@ -1,8 +1,5 @@
 {
- "COSMIC!": {
+ "LATENIGHTFIXSORRY!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 50]
   },
-"SORRYFORTHATT!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 50]
-  }
 }
