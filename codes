@@ -4,5 +4,8 @@
   },
  "BUBUTEAM!": {
     "Reward": ["STOMP_EFFECT", 25]
+  },
+ "NEXTUPDATETHISWEEKK!": {
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 25]
   }
 }
