@@ -1,6 +1,6 @@
 {
  "MUSICTEAM!": {
-    "Reward": ["STREAK_EFFECT", 50]
+    "Reward": ["STREAK_EFFECT", 25]
   },
  "BUBUTEAM!": {
     "Reward": ["STOMP_EFFECT", 25]
