@@ -1,6 +1,6 @@
 {
- "HITMANREWORK!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 50]
+ "MUSICTEAM!": {
+    "Reward": ["STREAK_EFFECT", 50]
   },
  "BUBUTEAM!": {
     "Reward": ["STOMP_EFFECT", 25]
