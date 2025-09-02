@@ -6,6 +6,6 @@
     "Reward": ["STOMP_EFFECT", 25]
   },
  "THANKSFOR600CCUUPDATESOON!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 25]
+    "Reward": ["STOMP_EFFECT"]
   }
 }
