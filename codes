@@ -1,11 +1,8 @@
 {
- "MUSICTEAM!": {
-    "Reward": ["STREAK_EFFECT", 25]
+"MEOWL!": {
+    "Reward": ["STOMP_EFFECT", 20]
   },
- "BUBUTEAM!": {
-    "Reward": ["STOMP_EFFECT", 25]
-  },
- "UPHILLUPDATESOON?": {
-    "Reward": ["STOMP_EFFECT"]
+ "HMUPHILL!": {
+    "Reward": ["STREAK_EFFECT", 30]
   }
 }
