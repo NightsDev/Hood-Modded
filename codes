@@ -5,9 +5,6 @@
  "HMUPHILL!": {
     "Reward": ["STREAK_EFFECT", 30]
   },
-"LEGOHEAD!": {
-    "Reward": ["STREAK_EFFECT", 30]
-  },
  "MEOWLFIX!": {
     "Reward": ["STREAK_EFFECT", "STOMP_EFFECT"]
   }
