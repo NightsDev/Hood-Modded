@@ -5,7 +5,7 @@
  "HMUPHILL!": {
     "Reward": ["STREAK_EFFECT", 30]
   },
- "BACK2SCHOOL25!": {
-    "Reward": ["STREAK_EFFECT", "STOMP_EFFECT", 25]
+"MACROFIX!": {
+    "Reward": ["STREAK_EFFECT", 30]
   }
 }
