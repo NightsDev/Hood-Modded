@@ -5,7 +5,7 @@
  "HMUPHILL!": {
     "Reward": ["STREAK_EFFECT", 30]
   },
-"VERYLATECODEBUTHEREE!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 30]
+"MINIUPDATESORRY!": {
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", "STOMP_EFFECT", "STREAK_EFFECT", 25]
   }
 }
