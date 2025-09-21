@@ -2,10 +2,10 @@
 "MEOWL!": {
     "Reward": ["STOMP_EFFECT", 20]
   },
- "HMUPHILL!": {
-    "Reward": ["STREAK_EFFECT", 30]
+ "MACROFIXENJOY!": {
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 25]
   },
 "MINIUPDATESORRY!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", "STOMP_EFFECT", "STREAK_EFFECT", 25]
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 25]
   }
 }
