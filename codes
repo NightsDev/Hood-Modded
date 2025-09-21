@@ -3,7 +3,7 @@
     "Reward": ["STOMP_EFFECT", 20]
   },
  "MACROFIXENJOY!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 25]
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 50]
   },
 "MINIUPDATESORRY!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 25]
