@@ -1,8 +1,5 @@
 {
- "MINICODEEARLYUPD3!": {
-    "Reward": ["STREAK_EFFECT", 50]
-  },
-"MINIUPDATESORRY!": {
+"MACRONOWWORKS!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 25]
   }
 }
