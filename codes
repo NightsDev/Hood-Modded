@@ -1,5 +1,8 @@
 {
 "ADMINABUSEIN10MINUTES!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 25]
+  },
+"EVENTHYPEEE!": {
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 25]
   }
 }
