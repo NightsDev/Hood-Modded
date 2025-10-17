@@ -2,6 +2,9 @@
 "HALLOWEENGOATTED25!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 25]
   },
+"FIRSTHALLOWEENGOAL1!": {
+    "Reward": ["STREAK_EFFECT", 25]
+  },
 "CRABCRABCRAB!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 25]
   }
