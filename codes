@@ -5,7 +5,7 @@
 "FIRSTHALLOWEENGOAL1!": {
     "Reward": ["STREAK_EFFECT", 25]
   },
-"BIGSNEAKPEAKTOMMOROW!": {
+"AARERUNTODAY!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 50]
   }
 }
