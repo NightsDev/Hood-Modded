@@ -5,7 +5,7 @@
 "THANKSFORTHEFEEDBACKK!": {
     "Reward": ["STOMP_EFFECT", 25]
   },
-"HALLOWEENPART2UPDD!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 50]
+"LATENIGHTHOTFIX!": {
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 50, "CANDY"]
   }
 }
