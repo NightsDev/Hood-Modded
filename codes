@@ -6,6 +6,6 @@
     "Reward": ["STOMP_EFFECT", 25]
   },
 "STOMPBALANCINGUPD!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 50, "CANDY"]
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 50]
   }
 }
