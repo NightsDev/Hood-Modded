@@ -1,6 +1,6 @@
 {
 "SORRYFORDELAYHEREE!": {
-    "Reward": ["STREAK_EFFECT", 50]
+    "Reward": ["STOMP_EFFECT","STREAK_EFFECT", 50]
   },
 "XMASTTCODE!": {
     "Reward": ["STOMP_EFFECT", 100]
