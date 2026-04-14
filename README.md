@@ -1,4 +1,6 @@
-if you see this you know what you did
+if you see this you know what you're here for
+
+on behalf of the community you should actually put effort on ur updates, 
 
 very unethical of you. Doge.
 
