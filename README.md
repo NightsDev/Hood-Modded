@@ -1,6 +1,8 @@
 if you see this you know what you're here for
 
 on behalf of the community you should actually put effort on ur updates, 
+attempting to eliminate competition while not being able to upkeep a game
+that you were trusted with is
 
 very unethical of you. Doge.
 
