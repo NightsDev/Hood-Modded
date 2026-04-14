@@ -2,4 +2,7 @@
 "VALENTINE!": {
     "Reward": ["STOMP_EFFECT","STREAK_EFFECT", 50]
   },
+"HOODFFA!": {
+    "Reward": ["STOMP_EFFECT","STREAK_EFFECT", 67]
+  },
 }
