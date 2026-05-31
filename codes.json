@@ -4,5 +4,17 @@
   },
    "QOLFIXES!": {
     "Reward": ["STOMP_EFFECT", 50]
+  },
+  "MANDYISTHEGREATESTANIMATOROFALLTIME": {
+    "Reward": ["STREAK_EFFECT", 25]
+  },
+   "SOMETIMESINLIFEALLYOUHAVETODOISPOOP": {
+    "Reward": ["STOMP_EFFECT", 25]
+  },
+ "DEMOTETARRIFIED": {
+    "Reward": ["STOMP_EFFECT", 25]
+  },
+  "FREEKYZZ": {
+    "Reward": ["STREAK_EFFECT", 25]
   }
 }
