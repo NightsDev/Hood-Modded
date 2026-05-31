@@ -1,5 +1,8 @@
 {
   "NEWGUN!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 1000]
-  }
+  },
+   "QOLFIXES!": {
+    "Reward": ["STOMP_EFFECT", 50]
+  },
 }
