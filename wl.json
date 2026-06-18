@@ -32,7 +32,9 @@
     "stand": []
   },
   "emotes": {
-    "Stoic Bomb": [],
+    "Stoic Bomb": [
+      10115608170
+    ],
     "Riri": [],
     "Tractor": [],
     "Snake": [
