@@ -1,5 +1,5 @@
 {
-  "HAPPYFATHERSDAY!": {
-    "Reward": ["SPECIAL_EMOTE", 50]
+  "JULYISJUSTAROUNDTHECORNER!": {
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 50]
   }
 }
