@@ -45,6 +45,11 @@
   "powers": {
     "stand": []
   },
+  "vehicles": {
+    "junker": [],
+    "lambo": [],
+    "rari": []
+  },
   "emotes": {
     "Stoic Bomb": [
       10115608170,
