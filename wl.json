@@ -46,7 +46,9 @@
     "stand": []
   },
   "vehicles": {
-    "junker": [],
+    "junker": [
+      1
+    ],
     "lambo": [],
     "rari": []
   },
