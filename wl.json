@@ -50,7 +50,9 @@
     "stand": []
   },
   "vehicles": {
-    "junker": [],
+    "junker": [
+      3214371368
+    ],
     "lambo": [],
     "rari": []
   },
