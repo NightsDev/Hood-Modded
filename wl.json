@@ -158,7 +158,8 @@
         ]
       ],
       "display_first": true,
-      "no_space": true
+      "no_space": true,
+      "animate_color": true
     }
   },
   "reporters": {
