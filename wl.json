@@ -157,7 +157,8 @@
           0
         ]
       ],
-      "display_first": true
+      "display_first": true,
+      "no_space": true,
     }
   },
   "reporters": {
