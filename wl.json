@@ -136,8 +136,8 @@
   },
    "titles": {
     "9823387274": {
-      "title": "One Who Caught Lightning",
-      "color": [
+      "title_text": ", The ???",
+      "title_color": [
         [
           0,
           255,
@@ -157,7 +157,7 @@
           0
         ]
       ],
-      "front": true
+      "include_display": true
     }
   },
   "reporters": {
