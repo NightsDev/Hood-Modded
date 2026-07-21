@@ -69,12 +69,48 @@
   "powers": {
     "stand": []
   },
-  "vehicles": {
-    "junker": [
-      3214371368
-    ],
-    "lambo": [],
-    "rari": []
+ "vehicles": {
+    "TukTuk": {
+      "Normal": [],
+      "Special": [],
+      "PlusWithoutPlus": []
+    },
+    "Nightwing": {
+      "Normal": [],
+      "Special": [],
+      "PlusWithoutPlus": []
+    },
+    "Junka": {
+      "Normal": [],
+      "Special": [],
+      "PlusWithoutPlus": []
+    },
+    "Yambo": {
+      "Normal": [],
+      "Special": [],
+      "PlusWithoutPlus": []
+    },
+    "Rari": {
+      "Normal": [],
+      "Special": [],
+      "PlusWithoutPlus": []
+    },
+    "Truck": {
+      "Normal": [],
+      "Special": [],
+      "PlusWithoutPlus": []
+    },
+    "Rody": {
+      "Normal": [],
+      "Special": [],
+      "PlusWithoutPlus": []
+    }
+  },
+  "carplus": {
+    "Basic": [],
+    "Premium": [],
+    "Max": [],
+    "Staff": []
   },
   "emotes": {
     "Unbound": [
