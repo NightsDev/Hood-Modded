@@ -82,7 +82,9 @@
     },
     "Nightwing": {
       "Normal": [],
-      "Special": [],
+      "Special": [
+        108807877
+      ],
       "PlusWithoutPlus": []
     },
     "Junka": {
