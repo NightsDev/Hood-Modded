@@ -99,7 +99,9 @@
     },
     "Rari": {
       "Normal": [],
-      "Special": [],
+      "Special": [
+        1453659390
+      ],
       "PlusWithoutPlus": []
     },
     "Truck": {
