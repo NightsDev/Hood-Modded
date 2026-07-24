@@ -81,7 +81,9 @@
       "PlusWithoutPlus": []
     },
     "Nightwing": {
-      "Normal": [],
+      "Normal": [
+        108807877
+      ],
       "Special": [
         108807877
       ],
