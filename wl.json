@@ -108,7 +108,9 @@
       "PlusWithoutPlus": []
     },
     "Rari": {
-      "Normal": [],
+      "Normal": [
+        1234705
+      ],
       "Special": [],
       "PlusWithoutPlus": []
     },
