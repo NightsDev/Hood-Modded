@@ -90,46 +90,70 @@
   },
   "vehicles": {
     "TukTuk": {
-      "Normal": [],
-      "Special": [],
+      "Normal": [
+        1429253027
+      ],
+      "Special": [
+        1429253027
+      ],
       "PlusWithoutPlus": []
     },
     "Nightwing": {
       "Normal": [
-        108807877
+        108807877,
+        1429253027
       ],
       "Special": [
-        108807877
+        108807877,
+        1429253027
       ],
       "PlusWithoutPlus": []
     },
     "Junka": {
-      "Normal": [],
-      "Special": [],
+      "Normal": [
+        1429253027
+      ],
+      "Special": [
+        1429253027
+      ],
       "PlusWithoutPlus": []
     },
     "Yambo": {
-      "Normal": [],
-      "Special": [],
+      "Normal": [
+        1429253027
+      ],
+      "Special": [
+        1429253027
+      ],
       "PlusWithoutPlus": []
     },
     "Rari": {
       "Normal": [
-        1234705
+        1234705,
+        1429253027
       ],
-      "Special": [],
+      "Special": [
+        1429253027
+      ],
       "PlusWithoutPlus": []
     },
     "Truck": {
-      "Normal": [],
-      "Special": [],
+      "Normal": [
+        1429253027
+      ],
+      "Special": [
+        1429253027
+      ],
       "PlusWithoutPlus": []
     },
     "Rody": {
       "Normal": [
-        290121902
+        290121902,
+        1429253027
       ],
-      "Special": [],
+      "Special": [
+        1429253027
+      ],
       "PlusWithoutPlus": []
     },
     "Coco": {
@@ -144,9 +168,12 @@
     "Basic": [],
     "Premium": [],
     "Max": [
-      134259709
+      134259709,
+      1429253027
     ],
-    "Staff": []
+    "Staff": [
+      1429253027
+    ]
   },
   "emotes": {
     "Unbound": [
