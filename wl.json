@@ -85,7 +85,15 @@
       29242182
     ]
   },
-  "panel_codes": {},
+  "panel_codes": {
+    "56Z6-KWGV-94XT": {
+      "reward": {
+        "type": "power",
+        "name": "Angel"
+      },
+      "claimed": false
+    }
+  },
   "vehicles": {
     "TukTuk": {
       "Normal": [
