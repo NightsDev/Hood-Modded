@@ -85,7 +85,15 @@
       29242182
     ]
   },
-  "panel_codes": {},
+  "panel_codes": {
+    "NPR8-DEQT-XPFT": {
+      "reward": {
+        "type": "power",
+        "name": "Force"
+      },
+      "claimed": false
+    }
+  },
   "vehicles": {
     "TukTuk": {
       "Normal": [
