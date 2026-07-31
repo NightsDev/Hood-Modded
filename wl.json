@@ -85,29 +85,7 @@
       29242182
     ]
   },
-  "panel_codes": {
-    "56Z6-KWGV-94XT": {
-      "reward": {
-        "type": "power",
-        "name": "Angel"
-      },
-      "claimed": false
-    },
-    "TCHQ-5YTZ-JRRL": {
-      "reward": {
-        "type": "power",
-        "name": "Angel"
-      },
-      "claimed": false
-    },
-    "E7E4-MZVP-889W": {
-      "reward": {
-        "type": "power",
-        "name": "Force"
-      },
-      "claimed": false
-    }
-  },
+  "panel_codes": {},
   "vehicles": {
     "TukTuk": {
       "Normal": [
