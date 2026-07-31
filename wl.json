@@ -85,7 +85,21 @@
       29242182
     ]
   },
-  "panel_codes": {},
+  "panel_codes": {
+    "W6X4-MW8E-JLM4": {
+      "reward": {
+        "type": "power",
+        "name": "Angel"
+      },
+      "claimedBy": null,
+      "claimedAt": null,
+      "createdBy": {
+        "discordId": "1064147628398477312",
+        "username": "nightsdev"
+      },
+      "createdAt": "2026-07-31T13:33:04.733Z"
+    }
+  },
   "vehicles": {
     "TukTuk": {
       "Normal": [
