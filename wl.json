@@ -194,7 +194,10 @@
       "Normal": [],
       "Special": [],
       "PlusWithoutPlus": []
-    }
+    },
+    "Jet": {
+      "Access": [],
+    },
   },
   "carplus": {
     "Basic": [],
