@@ -354,9 +354,38 @@
       "no_space": true,
       "animate_color": true,
       "keep_emoji": false
+    },
+   "1344108474": {
+      "title_text": ", Eth Larp -2K$",
+      "title_color": [
+        [
+          0,
+          255,
+          255,
+          255
+        ],
+        [
+          0.5,
+          255,
+          245,
+          180
+        ],
+        [
+          1,
+          255,
+          215,
+          0
+        ]
+      ],
+      "display_first": true,
+      "no_space": true,
+      "animate_color": true,
+      "keep_emoji": false
     }
   },
-  "crew_tags": {},
+  "crew_tags": {
+    "553399743": "Flux"
+  },
   "reporters": {
     "12589760": "139078089006120961",
     "131069910": "799476304000712744",
