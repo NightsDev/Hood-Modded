@@ -329,62 +329,7 @@
     "3718161806": "✅",
     "5077795305": "🎸"
   },
-  "titles": {
-    "1344108474": {
-      "title_text": ", Eth Larp -2K$",
-      "title_color": [
-        [
-          0,
-          255,
-          255,
-          255
-        ],
-        [
-          0.5,
-          255,
-          245,
-          180
-        ],
-        [
-          1,
-          255,
-          215,
-          0
-        ]
-      ],
-      "display_first": true,
-      "no_space": true,
-      "animate_color": true,
-      "keep_emoji": false
-    },
-    "9823387274": {
-      "title_text": ", The World!",
-      "title_color": [
-        [
-          0,
-          255,
-          255,
-          255
-        ],
-        [
-          0.5,
-          255,
-          245,
-          180
-        ],
-        [
-          1,
-          255,
-          215,
-          0
-        ]
-      ],
-      "display_first": true,
-      "no_space": true,
-      "animate_color": true,
-      "keep_emoji": false
-    }
-  },
+  "titles": {},
   "crew_tags": {
     "553399743": "Flux"
   },
