@@ -1,8 +1,8 @@
 {
-  "POLYESTER!": {
-    "Reward": ["SPECIAL_EMOTE"]
+   "JEQUAVIUS": {
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", "EMOTE_REROLL"]
   },
-  "ROBLOXWYD!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 100]
+  "VERITY": {
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", "SPECIAL_EMOTE"]
   }
 }
