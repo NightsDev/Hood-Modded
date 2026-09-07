@@ -225,7 +225,9 @@
       "PlusWithoutPlus": []
     },
     "Coco": {
-      "Normal": [],
+      "Normal": [
+        150632406
+      ],
       "Special": [],
       "PlusWithoutPlus": []
     },
