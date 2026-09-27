@@ -1,11 +1,8 @@
 {
-   "JEQUAVIUS": {
+   "TALKTOTHEPAW!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", "EMOTE_REROLL"]
   },
-   "HELLOIMVERITY": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", "EMOTE_REROLL"]
-  },
-  "VERITY": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", "SPECIAL_EMOTE"]
+   "MINIQOLUPDATEE!": {
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT"]
   }
 }
