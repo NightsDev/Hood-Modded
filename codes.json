@@ -2,7 +2,7 @@
    "TALKTOTHEPAW!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", "EMOTE_REROLL", 25]
   },
-   "MINIQOLUPDATEE!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 75]
+   "LAYOUT!": {
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", "EMOTE_REROLL", 25]
   }
 }
