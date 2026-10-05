@@ -3,7 +3,7 @@
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", "EMOTE_REROLL", 25]
   },
    "LAYOUT!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", "EMOTE_REROLL", 25]
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 25]
   },
    "WDELAY!": {
     "Reward": ["EMOTE_REROLL"]
