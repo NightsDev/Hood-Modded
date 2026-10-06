@@ -1,6 +1,6 @@
 {
-   "TALKTOTHEPAW!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", "EMOTE_REROLL", 25]
+   "WELCOMEBACK!": {
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", "EMOTE_REROLL", 100]
   },
    "LAYOUT!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 25]
