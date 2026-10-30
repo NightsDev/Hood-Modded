@@ -1,11 +1,5 @@
 {
-   "THISADMINABUSEISCRAZY!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", "SPECIAL_EMOTE", 100]
-  },
-   "LAYOUT!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 25]
-  },
-   "WDELAY!": {
-    "Reward": ["EMOTE_REROLL"]
+   "DHMISBACK!": {
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 100]
   }
 }
