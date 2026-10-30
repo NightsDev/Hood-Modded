@@ -1,5 +1,5 @@
 {
    "DHMISBACK!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", 100]
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", "EMOTE_REROLL", 250]
   }
 }
