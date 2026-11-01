@@ -1,5 +1,8 @@
 {
    "HAPPYHALLOWEEN!": {
     "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", "EMOTE_REROLL", 250]
+  },
+    "SORRRYWEEEBACCKK!": {
+    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", "EMOTE_REROLL", 250]
   }
 }
