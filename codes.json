@@ -1,8 +1,31 @@
 {
-   "HAPPYHALLOWEEN!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", "EMOTE_REROLL", 250]
+  "HAPPYHALLOWEEN!": {
+    "Reward": [
+      "STOMP_EFFECT",
+      "STREAK_EFFECT",
+      "EMOTE_REROLL",
+      250
+    ]
   },
-    "SORRRYWEEEBACCKK!": {
-    "Reward": ["STOMP_EFFECT", "STREAK_EFFECT", "EMOTE_REROLL", 250]
+  "SORRRYWEEEBACCKK!": {
+    "Reward": [
+      "STOMP_EFFECT",
+      "STREAK_EFFECT",
+      "EMOTE_REROLL",
+      250
+    ]
+  },
+  "FIXES!": {
+    "Reward": [
+      {
+        "Crate": "PremiumKnife",
+        "Amount": 1
+      },
+      {
+        "Crate": "PremiumGun",
+        "Amount": 1
+      },
+      25
+    ]
   }
 }
