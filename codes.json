@@ -1,3 +1,4 @@
+
 {
   "PERKVOTE!": {
     "Reward": [
@@ -10,6 +11,14 @@
         "Amount": 1
       },
       100
+    ]
+  },
+  "WOWWWWSHUTDOWNN!": {
+    "Reward": [
+      "STOMP_EFFECT",
+      "STREAK_EFFECT",
+      "EMOTE_REROLL",
+      250
     ]
   }
 }
