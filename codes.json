@@ -1,6 +1,6 @@
 
 {
-  "PERKVOTE!": {
+  "NEWRANKED!": {
     "Reward": [
       {
         "Crate": "PremiumKnife",
@@ -10,6 +10,7 @@
         "Crate": "PremiumGun",
         "Amount": 1
       },
+      "STOMP_EFFECT",
       100
     ]
   },
