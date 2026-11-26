@@ -1,4 +1,18 @@
 {
+  "14199014": {
+    "text": "FRAUD",
+    "colors": [
+      "#000001",
+      "#ffffff"
+    ],
+    "direction": "right",
+    "anim": "wave",
+    "speed": 0.5,
+    "anim_height": 1,
+    "anim_speed": 5,
+    "font": "Fantasy",
+    "animated": false
+  },
   "15574754": {
     "text": "DEMOLISHED",
     "colors": [
