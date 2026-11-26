@@ -26,6 +26,19 @@
     "anim_speed": 5,
     "font": "Fantasy"
   },
+  "15231396": {
+    "text": "KARMA",
+    "colors": [
+      "#000000",
+      "#5c020f",
+      "#270006"
+    ],
+    "anim": "float",
+    "side": "right",
+    "font": "Fondamento",
+    "outline": "#000000",
+    "icon_id2": "132292778701997"
+  },
   "15574754": {
     "text": "DEMOLISHED",
     "colors": [
