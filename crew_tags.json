@@ -57,20 +57,6 @@
     "font": "SourceSansBold",
     "brackets": true
   },
-  "528030181": {
-    "text": "Hxstile",
-    "colors": [
-      "#000000",
-      "#5c0000",
-      "#000000",
-      "#450e34",
-      "#000000"
-    ],
-    "anim": "float",
-    "font": "PatrickHand",
-    "outline": "#000000",
-    "icon_id": "84018778513098"
-  },
   "787125666": {
     "text": ", The Hero",
     "colors": [
