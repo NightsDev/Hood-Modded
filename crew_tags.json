@@ -48,6 +48,21 @@
     "outline": "#000000",
     "icon_id2": "131512675631755"
   },
+  "34762923": {
+    "text": "/KFG",
+    "colors": [
+      "#d11800",
+      "#821e10",
+      "#ffffff",
+      "#000000"
+    ],
+    "direction": "right",
+    "anim": "swing",
+    "side": "right",
+    "font": "Antique",
+    "outline": "#000000",
+    "icon_id": "51838212"
+  },
   "36065940": {
     "text": "Ashen†",
     "colors": [
