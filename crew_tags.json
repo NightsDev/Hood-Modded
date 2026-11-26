@@ -104,18 +104,5 @@
     "anim": "shake",
     "font": "SourceSansBold",
     "brackets": true
-  },
-  "787125666": {
-    "text": ", The Hero",
-    "colors": [
-      "#000000",
-      "#ffffff"
-    ],
-    "direction": "diagonal",
-    "speed": 0.5,
-    "anim": "orbit",
-    "anim_height": 5,
-    "anim_speed": 5,
-    "side": "right"
   }
 }
