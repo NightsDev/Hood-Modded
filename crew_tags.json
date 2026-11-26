@@ -1,11 +1,12 @@
 {
   "787125666": {
-    "Text": "Hero",
-    "Colors": ["#290075", "#010101"],
-    "Direction": "Diagonal",
-    "Speed": 2,
-    "AnimHeight": 5,
-    "AnimSpeed": 5,
-    "Font": "Gotham"
+    "text": "Hero",
+    "colors": ["#290075", "#010101"],
+    "direction": "diagonal",
+    "speed": 2,
+    "anim_height": 5,
+    "anim_speed": 5,
+    "font": "Gotham",
+    "side": "right"
   }
 }
