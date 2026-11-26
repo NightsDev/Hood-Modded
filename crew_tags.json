@@ -60,6 +60,21 @@
     "outline": "#000000",
     "icon_id2": "131512675631755"
   },
+  "15743897": {
+    "text": "/rebornW",
+    "colors": [
+      "#000000",
+      "#ffffff",
+      "#000000"
+    ],
+    "direction": "left",
+    "speed": 0.3,
+    "x_offset": 10,
+    "y_offset": 10,
+    "font": "SpecialElite",
+    "outline": "#000000",
+    "icon_id": "81601629199071"
+  },
   "34762923": {
     "text": "/KFG",
     "colors": [
