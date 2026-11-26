@@ -75,6 +75,16 @@
     "outline": "#000000",
     "icon_id": "51838212"
   },
+  "35662260": {
+    "text": "TALK TO ME",
+    "colors": [
+      "#a020ff",
+      "#5800a8"
+    ],
+    "anim": "float",
+    "outline": "#10001f",
+    "icon_id2": "118733389341133"
+  },
   "36065940": {
     "text": "Ashen†",
     "colors": [
