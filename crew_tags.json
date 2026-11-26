@@ -10,8 +10,7 @@
     "speed": 0.5,
     "anim_height": 1,
     "anim_speed": 5,
-    "font": "Fantasy",
-    "animated": false
+    "font": "Fantasy"
   },
   "15574754": {
     "text": "DEMOLISHED",
