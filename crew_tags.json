@@ -1,4 +1,17 @@
 {
+  "4282565": {
+    "text": "/redemptionK",
+    "colors": [
+      "#450103",
+      "#7c0100",
+      "#53016f"
+    ],
+    "direction": "right",
+    "anim": "wave",
+    "font": "Kalam",
+    "outline": "#000000",
+    "icon_id": "101024873358563"
+  },
   "13303439": {
     "text": "Hxstile",
     "colors": [
