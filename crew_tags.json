@@ -13,17 +13,13 @@
   "479063652": {
     "text": "KRONOS",
     "colors": [
-      "#b0e0e6",
-      "#d3d3d3"
+      "#ffffff",
+      "#004ae3",
+      "#000000"
     ],
-    "direction": "up",
-    "anim": "bounce",
-    "side": "right",
-    "speed": 0.1,
-    "anim_speed": 4,
-    "font": "GothamMedium",
-    "outline": "#000000",
-    "icon_id2": "15817782999",
+    "direction": "right",
+    "anim": "shake",
+    "font": "SourceSansBold",
     "brackets": true
   },
   "528030181": {
