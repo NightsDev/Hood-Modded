@@ -1,4 +1,20 @@
 {
+  "479063652": {
+    "text": "KRONOS",
+    "colors": [
+      "#b0e0e6",
+      "#d3d3d3"
+    ],
+    "direction": "up",
+    "anim": "bounce",
+    "side": "right",
+    "speed": 0.1,
+    "anim_speed": 4,
+    "font": "GothamMedium",
+    "outline": "#000000",
+    "icon_id2": "15817783054",
+    "brackets": true
+  },
   "787125666": {
     "text": ", The Hero",
     "colors": [
