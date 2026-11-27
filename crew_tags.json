@@ -124,6 +124,15 @@
     "outline": "#000000",
     "brackets": true
   },
+  "103385114": {
+    "text": "/xok",
+    "colors": [
+      "#4f9ff7",
+      "#ffffff"
+    ],
+    "anim": "orbit",
+    "font": "ArialBold"
+  },
   "479063652": {
     "text": "KRONOS",
     "colors": [
