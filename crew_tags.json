@@ -154,5 +154,22 @@
     "anim": "shake",
     "font": "SourceSansBold",
     "brackets": true
+  },
+  "981953580": {
+    "text": "freedom",
+    "colors": [
+      "#ffffff",
+      "#272854"
+    ],
+    "direction": "up",
+    "anim": "wave",
+    "speed": 0.2,
+    "anim_height": 6,
+    "anim_speed": 6,
+    "font": "Cartoon",
+    "outline": "#000000",
+    "icon_id": "132514053",
+    "icon_id2": "132514053",
+    "brackets": true
   }
 }
