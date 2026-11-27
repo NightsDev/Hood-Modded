@@ -209,6 +209,18 @@
     "font": "SourceSansBold",
     "brackets": true
   },
+  "752577058": {
+    "text": "Prosper",
+    "colors": [
+      "#ed4245",
+      "#000000",
+      "#ffffff"
+    ],
+    "direction": "right",
+    "font": "TitilliumWeb",
+    "outline": "#000000",
+    "animated": false
+  },
   "981953580": {
     "text": "freedom",
     "colors": [
