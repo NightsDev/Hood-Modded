@@ -167,6 +167,17 @@
     "direction": "right",
     "font": "ArialBold"
   },
+  "67791703": {
+    "text": "VICE",
+    "colors": [
+      "#0047ab",
+      "#ffffff"
+    ],
+    "anim": "float",
+    "font": "Fantasy",
+    "outline": "#000000",
+    "brackets": true
+  },
   "76112202": {
     "text": "GRAVE",
     "colors": [
