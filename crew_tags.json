@@ -12,6 +12,26 @@
     "outline": "#000000",
     "icon_id": "101024873358563"
   },
+  "8482045": {
+    "text": "Aisir",
+    "colors": [
+      "#262628",
+      "#55565c",
+      "#aeb9c3",
+      "#f0f3f6"
+    ],
+    "direction": "up",
+    "anim": "shake",
+    "side": "right",
+    "speed": 0.3,
+    "anim_height": 7,
+    "anim_speed": 10,
+    "x_offset": 0,
+    "y_offset": 0,
+    "font": "Fondamento",
+    "outline": "#262628",
+    "icon_id": "94044428564994"
+  },
   "13303439": {
     "text": "Hxstile",
     "colors": [
