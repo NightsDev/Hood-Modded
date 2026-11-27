@@ -142,6 +142,15 @@
     "outline": "#000000",
     "brackets": true
   },
+  "61519939": {
+    "text": "yakuza",
+    "colors": [
+      "#010002",
+      "#f50303"
+    ],
+    "direction": "right",
+    "font": "ArialBold"
+  },
   "76112202": {
     "text": "GRAVE",
     "colors": [
