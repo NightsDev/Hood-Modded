@@ -187,6 +187,18 @@
     "outline": "#000000",
     "icon_id": "110905603581287"
   },
+  "225583120": {
+    "text": "FATES DECAY",
+    "colors": [
+      "#ff0000",
+      "#0a0101"
+    ],
+    "direction": "up",
+    "anim": "glitch",
+    "font": "PatrickHand",
+    "outline": "#0a0101",
+    "animated": false
+  },
   "479063652": {
     "text": "KRONOS",
     "colors": [
