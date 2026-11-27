@@ -143,6 +143,29 @@
     "anim": "orbit",
     "font": "ArialBold"
   },
+  "181565135": {
+    "text": "defiant",
+    "colors": [
+      "#000000",
+      "#010101",
+      "#020202",
+      "#030303",
+      "#050505",
+      "#c7c7c7",
+      "#010101",
+      "#030303",
+      "#000000"
+    ],
+    "direction": "up",
+    "speed": 0.05,
+    "anim_height": 1,
+    "anim_speed": 1,
+    "x_offset": 0,
+    "y_offset": 0,
+    "font": "Bodoni",
+    "outline": "#000000",
+    "icon_id": "110905603581287"
+  },
   "479063652": {
     "text": "KRONOS",
     "colors": [
