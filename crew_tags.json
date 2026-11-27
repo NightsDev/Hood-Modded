@@ -124,6 +124,16 @@
     "outline": "#000000",
     "brackets": true
   },
+  "76112202": {
+    "text": "GRAVE",
+    "colors": [
+      "#000000",
+      "#5605b0"
+    ],
+    "anim": "float",
+    "font": "Fondamento",
+    "icon_id": "99777964350556"
+  },
   "103385114": {
     "text": "/xok",
     "colors": [
