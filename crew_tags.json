@@ -170,12 +170,13 @@
   "67791703": {
     "text": "VICE",
     "colors": [
-      "#0047ab",
+      "#6082b6",
       "#ffffff"
     ],
     "anim": "float",
-    "font": "Fantasy",
+    "font": "Antique",
     "outline": "#000000",
+    "icon_id": "98985208759916",
     "brackets": true
   },
   "76112202": {
