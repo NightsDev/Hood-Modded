@@ -1,4 +1,20 @@
 {
+  "54914": {
+    "text": "/coffins",
+    "colors": [
+      "#000001",
+      "#300202",
+      "#771b1b",
+      "#5a1828"
+    ],
+    "anim": "shake",
+    "speed": 0.5,
+    "anim_height": 5,
+    "anim_speed": 1,
+    "font": "Fondamento",
+    "outline": "#000001",
+    "icon_id2": "108426048068568"
+  },
   "4282565": {
     "text": "/redemptionK",
     "colors": [
