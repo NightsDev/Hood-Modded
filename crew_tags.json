@@ -283,16 +283,27 @@
     "brackets": true
   },
   "752577058": {
-    "text": "Prosper",
+    "text": "PROSPER",
     "colors": [
-      "#ed4245",
-      "#000000",
-      "#ffffff"
+      "#7b00ff",
+      "#c0c0c0",
+      "#c0c0c0",
+      "#aa00ff",
+      "#c0c0c0",
+      "#c0c0c0",
+      "#aa00ff",
+      "#c0c0c0",
+      "#c0c0c0",
+      "#aa00ff",
+      "#c0c0c0",
+      "#c0c0c0",
+      "#7b00ff"
     ],
-    "direction": "right",
-    "font": "TitilliumWeb",
-    "outline": "#000000",
-    "animated": false
+    "anim": "wave",
+    "speed": 4,
+    "font": "Bodoni",
+    "outline": "#460091",
+    "brackets": true
   },
   "981953580": {
     "text": "freedom",
