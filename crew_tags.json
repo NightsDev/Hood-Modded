@@ -158,6 +158,16 @@
     "outline": "#000000",
     "brackets": true
   },
+  "59827848": {
+    "text": "#14",
+    "colors": [
+      "#c4a5ff",
+      "#821d00"
+    ],
+    "direction": "up",
+    "anim": "glitch",
+    "font": "Code"
+  },
   "61519939": {
     "text": "yakuza",
     "colors": [
