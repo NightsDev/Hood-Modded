@@ -137,6 +137,19 @@
     "outline": "#000000",
     "icon_id": "51838212"
   },
+  "34856382": {
+    "text": "masked",
+    "colors": [
+      "#c37545",
+      "#994e24"
+    ],
+    "direction": "right",
+    "anim": "wave",
+    "speed": 0.79,
+    "font": "SourceSansSemibold",
+    "outline": "#000000",
+    "animated": false
+  },
   "35662260": {
     "text": "TALK TO ME",
     "colors": [
