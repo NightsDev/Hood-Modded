@@ -299,10 +299,13 @@
       "#c0c0c0",
       "#7b00ff"
     ],
+    "direction": "left",
     "anim": "wave",
-    "speed": 4,
+    "speed": 2,
     "font": "Bodoni",
     "outline": "#460091",
+    "icon_id": "96126135666471",
+    "icon_id2": "96126135666471",
     "brackets": true
   },
   "981953580": {
