@@ -248,15 +248,31 @@
   "225583120": {
     "text": "FATES DECAY",
     "colors": [
-      "#ff0000",
-      "#0a0101"
+      "#000000",
+      "#b95d5d",
+      "#000000",
+      "#b95d5d",
+      "#000000",
+      "#b95d5d",
+      "#000000",
+      "#b95d5d",
+      "#000000",
+      "#b95d5d",
+      "#000000",
+      "#b95d5d",
+      "#000000",
+      "#b95d5d",
+      "#000000",
+      "#b95d5d",
+      "#000000",
+      "#b95d5d",
+      "#000000"
     ],
-    "direction": "up",
+    "direction": "right",
     "anim": "glitch",
-    "font": "PatrickHand",
-    "outline": "#0a0101",
-    "brackets": true,
-    "animated": false
+    "font": "Jura",
+    "outline": "#830000",
+    "brackets": true
   },
   "292402942": {
     "text": "Goated",
